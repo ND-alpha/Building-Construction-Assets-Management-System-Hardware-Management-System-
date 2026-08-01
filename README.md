@@ -68,4 +68,4 @@ The system uses the `hardware` database, containing the following core tables:
 ## ⚙️ Local Installation & Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ND-alpha/Hardware-Management-System.git
+   https://github.com/ND-alpha/Building-Construction-Assets-Management-System-Hardware-Management-System-.git
